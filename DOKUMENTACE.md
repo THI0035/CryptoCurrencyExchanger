@@ -6,13 +6,17 @@ Dokumentace - směnárna kryptoměn
 
 Technické parametry
 
-Autor: Adam Thiel (THI0035)
-IDE: Apache NetBeanns IDE 12.0
+Autor: Adam Thiel (THI0035)   
+IDE: Apache NetBeanns IDE 12.0   
 Verze: JDK 13 
 
-Popis aplikace: Uživatel si ze seznamu kryptoměn vybere, jaké kryptoměny chce převádět a na jaké. Kryptoměny jsou vypsány z aplikačního prostředí vždy s aktuální cenou. Výsledkem 		   aplikace je převod první, uživatelem zadané kryptoměny, na drouhou.
+Popis aplikace:
 
-Použité knihovny: knihovny z bálíčku java(java.util.ArrayList,java.util.Scanner,java.util.Iterator, java.net.HttpURLConnection, java.net.URL) 
+Uživatel si ze seznamu kryptoměn vybere, jaké kryptoměny chce převádět a na jaké. Kryptoměny jsou vypsány z aplikačního prostředí vždy s aktuální cenou. Výsledkem 		   aplikace je převod první, uživatelem zadané kryptoměny, na drouhou.
+
+Použité knihovny: 
+
+knihovny z bálíčku java(java.util.ArrayList,java.util.Scanner,java.util.Iterator, java.net.HttpURLConnection, java.net.URL) 
 		  a dále knihovna pro práci s aktuálními JSON daty.(org.json.*)
 
 Průvodce aplikací:
